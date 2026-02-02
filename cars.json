@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price_usd": 22000
+  },
+  {
+    "id": 2,
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price_usd": 21000
+  },
+  {
+    "id": 3,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2023,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price_usd": 23000
+  },
+  {
+    "id": 4,
+    "brand": "Tata",
+    "model": "Nexon",
+    "year": 2022,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price_usd": 15000
+  },
+  {
+    "id": 5,
+    "brand": "Mahindra",
+    "model": "XUV700",
+    "year": 2023,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price_usd": 25000
+  },
+  {
+    "id": 6,
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2021,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price_usd": 12000
+  },
+  {
+    "id": 7,
+    "brand": "Kia",
+    "model": "Seltos",
+    "year": 2022,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price_usd": 20000
+  },
+  {
+    "id": 8,
+    "brand": "Volkswagen",
+    "model": "Virtus",
+    "year": 2023,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price_usd": 19000
+  },
+  {
+    "id": 9,
+    "brand": "Skoda",
+    "model": "Slavia",
+    "year": 2022,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price_usd": 19500
+  },
+  {
+    "id": 10,
+    "brand": "Ford",
+    "model": "Endeavour",
+    "year": 2021,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price_usd": 35000
+  }
+]
